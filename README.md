@@ -1,4 +1,4 @@
 test23
 ======
 
-some test repo
+This is a sample application....
